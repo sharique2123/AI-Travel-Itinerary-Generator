@@ -1,0 +1,6 @@
+{
+  "name": "3-Day Travel Itinerary Generator",
+  "description": "Generate clean and structured 3-day travel itineraries with daily schedules, times, and activities for any city in the world.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
